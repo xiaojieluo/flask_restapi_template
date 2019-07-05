@@ -1,0 +1,6 @@
+DEBUG = 'true'
+TOKEN_EXPIRATION_DAYS = 30
+TOKEN_EXPIRATION_SECONDS = 0
+
+# encryption 的复杂程度，默认值为12
+BCRYPT_LOG_ROUNDS = 4

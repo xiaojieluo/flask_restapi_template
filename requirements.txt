@@ -1,0 +1,16 @@
+Flask
+Flask-SQLAlchemy
+psycopg2-binary
+cymysql
+Flask-Testing
+coverage
+flake8
+flask-debugtoolbar
+flask-cors
+flask-migrate
+flask-bcrypt
+pyjwt
+gunicorn
+requests
+flask-httpauth
+flask-wtf
